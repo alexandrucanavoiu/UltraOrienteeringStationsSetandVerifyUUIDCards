@@ -1,0 +1,8 @@
+D:\Petronel\C\OrientareSetari\OrientareVerificare\bin\Release\OrientareVerificare.exe.config
+D:\Petronel\C\OrientareSetari\OrientareVerificare\obj\Release\OrientareVerificare.exe
+D:\Petronel\C\OrientareSetari\OrientareVerificare\obj\Release\OrientareVerificare.pdb
+D:\Petronel\C\OrientareSetari\OrientareVerificare\bin\Release\OrientareVerificare.exe
+D:\Petronel\C\OrientareSetari\OrientareVerificare\bin\Release\OrientareVerificare.pdb
+D:\Petronel\C\OrientareSetari\OrientareVerificare\obj\Release\OrientareVerificare.Form1.resources
+D:\Petronel\C\OrientareSetari\OrientareVerificare\obj\Release\OrientareVerificare.Properties.Resources.resources
+D:\Petronel\C\OrientareSetari\OrientareVerificare\obj\Release\OrientareSetari.csproj.GenerateResource.Cache

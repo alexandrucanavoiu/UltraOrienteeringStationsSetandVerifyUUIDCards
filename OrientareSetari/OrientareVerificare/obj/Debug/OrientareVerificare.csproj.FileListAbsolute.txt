@@ -1,0 +1,12 @@
+D:\Petronel\C\OrientareVerificare\OrientareVerificare\bin\Debug\OrientareVerificare.exe.config
+D:\Petronel\C\OrientareVerificare\OrientareVerificare\bin\Debug\OrientareVerificare.exe
+D:\Petronel\C\OrientareVerificare\OrientareVerificare\bin\Debug\OrientareVerificare.pdb
+D:\Petronel\C\OrientareVerificare\OrientareVerificare\obj\Debug\OrientareVerificare.Form1.resources
+D:\Petronel\C\OrientareVerificare\OrientareVerificare\obj\Debug\OrientareVerificare.Properties.Resources.resources
+D:\Petronel\C\OrientareVerificare\OrientareVerificare\obj\Debug\OrientareVerificare.csproj.GenerateResource.Cache
+D:\Petronel\C\OrientareVerificare\OrientareVerificare\obj\Debug\OrientareVerificare.exe
+D:\Petronel\C\OrientareVerificare\OrientareVerificare\obj\Debug\OrientareVerificare.pdb
+D:\Petronel\C\OrientareVerificare\OrientareVerificare\obj\Debug\OrientareVerificare.csprojResolveAssemblyReference.cache
+D:\Petronel\C\OrientareSetari\OrientareVerificare\bin\Debug\OrientareVerificare.exe.config
+D:\Petronel\C\OrientareSetari\OrientareVerificare\obj\Debug\OrientareVerificare.exe
+D:\Petronel\C\OrientareSetari\OrientareVerificare\obj\Debug\OrientareVerificare.pdb
